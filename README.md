@@ -23,5 +23,10 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashruth-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashruth-g-3bb3b2238/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashruth-g-3bb3b2238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashruth-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 
