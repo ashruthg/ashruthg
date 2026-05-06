@@ -1,24 +1,42 @@
 # Hi 👋 I'm Ashruth
 
-🎯 Preparing for Google Summer of Code 2026  
-💻 JavaScript | React | Node.js  
-🌱 Starting my Open Source journey  
+Full Stack Developer focused on building responsive web applications using React.js, Node.js, Express.js, and REST APIs.
 
 ---
 
 ## 🚀 Tech Stack
+
+### Frontend
+- React.js
 - JavaScript (ES6+)
-- React
-- Node.js / Express
-- HTML / CSS
-- Git & GitHub
+- HTML5
+- CSS3
+- Bootstrap
+- Styled Components
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- React Router
+- JWT Authentication
 
 ---
 
 ## 🔍 Current Focus
-- Contributing to open-source JavaScript projects
-- Improving frontend & backend skills
-- Preparing for GSoC 2026
+
+- Building full-stack MERN applications
+- Improving frontend & backend development skills
+- Practicing DSA and interview preparation
+- Learning scalable API design and authentication systems
 
 ---
 
