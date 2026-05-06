@@ -9,6 +9,7 @@ Full Stack Developer focused on building responsive web applications using React
 ### Frontend
 - React.js
 - JavaScript (ES6+)
+- TypeScript
 - HTML5
 - CSS3
 - Bootstrap
